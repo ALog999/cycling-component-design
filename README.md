@@ -47,9 +47,9 @@ A dual-function component combining storage and tail light mounting.
 
 ## 🛠 Tools & Process
 
-- **CAD Software:** Fusion 360, FreeCAD
+- **CAD Software:** Fusion, SolidWorks
 - **Validation:** FEA simulation, print testing, road usage
-- **Manufacturing:** 3D printing (PETG, PLA+), CNC (aluminum 6061)
+- **Manufacturing:** 3D printing (PETG, PC), CNC (aluminum 6061)
 - **Testing:** Component stress, field fit, race scenarios
 
 ---
