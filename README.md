@@ -55,29 +55,7 @@ A dual-function component combining storage and tail light mounting.
 ---
 
 ## 🗂 File Structure
-cycling-component-designs/
-
-├── aero_cockpit/
-
-
-├── reach_extender/
-
-├── rear_aero_fins/
-
-│ ├── single_bottle/
-
-│ └── double_bottle/
-
-├── varia_tool_case_mount/
-
-│ ├── screw_mount/
-
-│ └── seat_post_mount/
-
-├── README.md
-
-└── LICENSE
-
+<pre> ```plaintext cycling-component-designs/ ├── aero_cockpit/ ├── reach_extender/ ├── rear_aero_fins/ │ ├── single_bottle/ │ └── double_bottle/ ├── varia_tool_case_mount/ │ ├── screw_mount/ │ └── seat_post_mount/ ├── README.md └── LICENSE ``` </pre>
 ## 📄 License
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
