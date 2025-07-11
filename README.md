@@ -55,7 +55,7 @@ A dual-function component combining storage and tail light mounting.
 ---
 
 ## 🗂 File Structure
-```plaintext cycling-component-designs/ 
+<pre> ```plaintext cycling-component-designs/ 
 ├── aero_cockpit/
 ├── reach_extender/
 ├── rear_aero_fins/
@@ -65,7 +65,7 @@ A dual-function component combining storage and tail light mounting.
 │ ├── screw_mount/
 │ └── seat_post_mount/
 ├── README.md
-└── LICENSE ```
+└── LICENSE ``` </pre>
 
 ## 📄 License
 
